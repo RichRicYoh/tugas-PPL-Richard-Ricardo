@@ -1,8 +1,8 @@
 1. Sistem apa yang anda kembangkan pada mata kuliah ini?
-Jawab:
+Jawab: Sistem Manajemen Konten
 
 2. Apa tujuan anda mengembangkan sistem tersebut?
-Jawab:
+Jawab: Membuat dan mengatur konten pada sebuah Website terlebih jika berprofesi sebagai penulis blog.
 
 3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
-Jawab:
+Jawab: dapat memudahkan user dalam membagikan pengetahuan melalui sistem blog yang kami kembangkan ini
